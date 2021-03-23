@@ -1,0 +1,12 @@
+.Content button {
+  background-color: #ff4949;
+  color: white;
+  padding: 0.5rem 1rem;
+  border: 1px solid #ff4949;
+  margin: 1rem;
+}
+.Content button:hover {
+  background-color: blue;
+  border: 1px solid blue;
+  outline: none;
+}
